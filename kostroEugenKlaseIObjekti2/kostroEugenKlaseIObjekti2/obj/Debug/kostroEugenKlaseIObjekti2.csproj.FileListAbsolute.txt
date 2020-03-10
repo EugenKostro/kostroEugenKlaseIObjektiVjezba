@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\kostroEugenKlaseIObjekti2\kostroEugenKlaseIObjekti2\bin\Debug\kostroEugenKlaseIObjekti2.exe.config
+C:\Users\3.D\source\repos\kostroEugenKlaseIObjekti2\kostroEugenKlaseIObjekti2\bin\Debug\kostroEugenKlaseIObjekti2.exe
+C:\Users\3.D\source\repos\kostroEugenKlaseIObjekti2\kostroEugenKlaseIObjekti2\bin\Debug\kostroEugenKlaseIObjekti2.pdb
+C:\Users\3.D\source\repos\kostroEugenKlaseIObjekti2\kostroEugenKlaseIObjekti2\obj\Debug\kostroEugenKlaseIObjekti2.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenKlaseIObjekti2\kostroEugenKlaseIObjekti2\obj\Debug\kostroEugenKlaseIObjekti2.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenKlaseIObjekti2\kostroEugenKlaseIObjekti2\obj\Debug\kostroEugenKlaseIObjekti2.exe
+C:\Users\3.D\source\repos\kostroEugenKlaseIObjekti2\kostroEugenKlaseIObjekti2\obj\Debug\kostroEugenKlaseIObjekti2.pdb
